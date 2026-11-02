@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "d1",
+    "label": "Paper Submission Opens",
+    "order": 1,
+    "date": "2026-11-12",
+    "note": "",
+    "updatedAt": "2026-11-02T06:58:31.404Z"
+  },
+  {
+    "_id": "d2",
+    "label": "Full Paper Submission Deadline",
+    "order": 2,
+    "date": "2026-12-15",
+    "note": "",
+    "updatedAt": "2026-11-02T06:07:55.552Z"
+  },
+  {
+    "_id": "d3",
+    "label": "Notification of Acceptance",
+    "order": 3,
+    "date": "2026-12-30",
+    "note": "",
+    "updatedAt": "2026-11-02T06:08:13.292Z"
+  },
+  {
+    "_id": "d4",
+    "label": "Camera-Ready Paper Submission",
+    "order": 4,
+    "date": "2027-01-20",
+    "note": "",
+    "updatedAt": "2026-11-02T06:08:28.736Z"
+  },
+  {
+    "_id": "d5",
+    "label": "Conference Dates",
+    "order": 5,
+    "date": "2027-02-25",
+    "note": "",
+    "updatedAt": "2026-11-02T06:09:04.606Z"
+  }
+]

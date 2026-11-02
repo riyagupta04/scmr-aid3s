@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "t_1",
+    "title": "Pure, Applied, Computational and Interdisciplinary Mathematics",
+    "shortTitle": "Mathematics",
+    "topics": [
+      "A. Pure and Applied Mathematics : Analysis, Algebra, Number Theory, Geometry, Topology, Partial Differential Equations, Dynamical Systems, Control Theory, and related areas.",
+      "B. Computational and Interdisciplinary Mathematics : Probability, Statistics, Optimization, Numerical Analysis, Scientific Computing, and related computational and interdisciplinary areas."
+    ],
+    "order": 1
+  },
+  {
+    "_id": "t_2",
+    "title": "Remote Sensing and Digital Image Processing",
+    "shortTitle": "Remote Sensing & DIP",
+    "topics": [
+      "Multispectral, hyperspectral, thermal, LiDAR, and SAR-based applications",
+      "Image classification, segmentation, and enhancement techniques",
+      "Big data remote sensing and automated pipelines",
+      "Change detection algorithms and spatio-temporal dynamics",
+      "Planetary remote sensing from lunar and Mars missions"
+    ],
+    "order": 2
+  },
+  {
+    "_id": "t_3",
+    "title": "Machine Learning, Deep Learning & GeoAI",
+    "shortTitle": "ML, DL & GeoAI",
+    "topics": [
+      "Convolutional neural networks (CNNs) and transformers for geospatial data",
+      "Spatio-temporal modeling using RNNs, LSTMs, and hybrid architectures",
+      "ML for hazard prediction (floods, landslides, earthquakes, dust storms)",
+      "AI-enabled environmental monitoring and climate projections",
+      "Bias, ethics, and interpretability in geospatial AI"
+    ],
+    "order": 3
+  },
+  {
+    "_id": "t_4",
+    "title": "AI in Mechanical, Manufacturing and Industrial Engineering",
+    "shortTitle": "Mechanical & Industrial",
+    "topics": [
+      "AI for Smart Manufacturing and Industry 4.0/5.0",
+      "Intelligent Robotics and Autonomous Machines",
+      "Predictive Maintenance of Industrial Equipment",
+      "Machine Learning for Thermal and Fluid Systems",
+      "AI-Based Fault Detection in Mechanical Systems",
+      "Intelligent Production Planning and Scheduling",
+      "Computer Vision for Industrial Inspection",
+      "AI for Additive Manufacturing",
+      "Digital Twins for Industrial Systems",
+      "Intelligent Control and Process Optimization"
+    ],
+    "order": 4
+  },
+  {
+    "_id": "t_5",
+    "title": "AI in Civil, Infrastructure and Environmental Engineering",
+    "shortTitle": "Civil & Environmental",
+    "topics": [
+      "AI for Structural Health Monitoring",
+      "Intelligent Design of Civil Engineering Structures",
+      "Machine Learning for Construction Management",
+      "Computer Vision for Infrastructure Inspection",
+      "AI for Traffic Prediction and Transportation Systems",
+      "Smart Cities and Intelligent Infrastructure",
+      "AI for Geotechnical and Water Resources Engineering",
+      "Flood Forecasting and Disaster Risk Prediction",
+      "AI for Environmental Monitoring and Pollution Assessment",
+      "Sustainable Construction and Infrastructure Optimization"
+    ],
+    "order": 5
+  },
+  {
+    "_id": "t_6",
+    "title": "AI in Electrical, Electronics and Communication Engineering",
+    "shortTitle": "Electrical & Comm.",
+    "topics": [
+      "AI for Smart Grids and Power System Optimization",
+      "Renewable Energy Forecasting and Management",
+      "Intelligent Control of Electrical Systems",
+      "AI for Fault Detection in Power Equipment",
+      "Embedded AI and Edge Intelligence",
+      "AI for VLSI Design and Semiconductor Testing",
+      "Intelligent Signal Processing",
+      "AI for Wireless and Next-Generation Networks",
+      "Internet of Things and Intelligent Sensor Networks",
+      "AI-Enabled Electronic Instrumentation",
+      "Autonomous Systems and Robotics"
+    ],
+    "order": 6
+  },
+  {
+    "_id": "t_7",
+    "title": "AI in Emerging and Interdisciplinary Applications",
+    "shortTitle": "Emerging Applications",
+    "topics": [
+      "AI for Agriculture and Precision Farming",
+      "AI for Chemical and Process Engineering",
+      "AI for Aerospace and Autonomous Systems",
+      "AI for Materials Science and Computational Chemistry",
+      "AI for Energy Systems and Sustainability",
+      "AI for Supply Chains and Industrial Logistics",
+      "AI for Geospatial Analysis and Remote Sensing",
+      "AI for Education and Intelligent Learning Systems",
+      "Human-Centred AI and Human-Machine Interaction",
+      "Responsible AI, Ethics and Societal Implications",
+      "AI for Multidisciplinary Scientific Discovery"
+    ],
+    "order": 7
+  }
+]
