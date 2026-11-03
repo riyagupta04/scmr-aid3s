@@ -1,34 +1,56 @@
 [
   {
-    "title": "Pure, Applied, Computational and Interdisciplinary Mathematics",
-    "shortTitle": "Mathematics",
+    "title": "Artificial Intelligence, Machine Learning and Advanced Computing",
+    "shortTitle": "AI, ML & Computing",
     "topics": [
-      "A. Pure and Applied Mathematics : Analysis, Algebra, Number Theory, Geometry, Topology, Partial Differential Equations, Dynamical Systems, Control Theory, and related areas.",
-      "B. Computational and Interdisciplinary Mathematics : Probability, Statistics, Optimization, Numerical Analysis, Scientific Computing, and related computational and interdisciplinary areas."
+      "Artificial Intelligence and Machine Learning Algorithms",
+      "Deep Learning and Neural Network Architectures",
+      "Generative AI and Large Language Models",
+      "AI Agents and Autonomous Intelligent Systems",
+      "Natural Language Processing and Text Analytics",
+      "Computer Vision and Image Understanding",
+      "Data Mining, Big Data Analytics and Knowledge Discovery",
+      "Reinforcement Learning and Evolutionary Computing",
+      "Intelligent Algorithms and Computational Optimization",
+      "Cloud, Edge and Distributed Intelligent Computing",
+      "AI for Software Engineering and Automated Programming",
+      "AI Security, Privacy and Trustworthy Computing"
     ],
     "order": 1
   },
   {
-    "title": "Remote Sensing and Digital Image Processing",
-    "shortTitle": "Remote Sensing & DIP",
+    "title": "AI in Engineering Design, Modelling and Optimization",
+    "shortTitle": "Design & Optimization",
     "topics": [
-      "Multispectral, hyperspectral, thermal, LiDAR, and SAR-based applications",
-      "Image classification, segmentation, and enhancement techniques",
-      "Big data remote sensing and automated pipelines",
-      "Change detection algorithms and spatio-temporal dynamics",
-      "Planetary remote sensing from lunar and Mars missions"
+      "AI-Assisted Design and Generative Design",
+      "Intelligent CAD and Computer-Aided Engineering",
+      "Machine Learning for Modelling and Simulation",
+      "Digital Twins and Cyber-Physical Systems",
+      "AI-Based Structural and System Design",
+      "Intelligent Optimization of Engineering Processes",
+      "Surrogate Modelling and Scientific Machine Learning",
+      "Predictive Modelling and Performance Estimation",
+      "AI for Materials Design and Discovery",
+      "AI-Enabled Energy-Efficient Design",
+      "Design Automation and Intelligent Decision Support"
     ],
     "order": 2
   },
   {
-    "title": "Machine Learning, Deep Learning & GeoAI",
-    "shortTitle": "ML, DL & GeoAI",
+    "title": "AI in Diagnostics, Prediction and Healthcare",
+    "shortTitle": "Diagnostics & Healthcare",
     "topics": [
-      "Convolutional neural networks (CNNs) and transformers for geospatial data",
-      "Spatio-temporal modeling using RNNs, LSTMs, and hybrid architectures",
-      "ML for hazard prediction (floods, landslides, earthquakes, dust storms)",
-      "AI-enabled environmental monitoring and climate projections",
-      "Bias, ethics, and interpretability in geospatial AI"
+      "AI-Based Medical Imaging and Computer-Aided Diagnosis",
+      "Biomedical Signal and Image Processing",
+      "Machine Learning for Disease Prediction",
+      "AI for Clinical Decision Support",
+      "Intelligent Healthcare Monitoring and Wearable Systems",
+      "Biomedical Instrumentation and Smart Medical Devices",
+      "AI for Drug Discovery and Computational Biology",
+      "Explainable AI in Healthcare",
+      "Assistive Technologies and Rehabilitation Systems",
+      "Predictive Maintenance and Fault Diagnosis",
+      "Anomaly Detection and Intelligent Condition Monitoring"
     ],
     "order": 3
   },
@@ -101,5 +123,38 @@
       "AI for Multidisciplinary Scientific Discovery"
     ],
     "order": 7
+  },
+  {
+    "title": "Pure, Applied, Computational and Interdisciplinary Mathematics",
+    "shortTitle": "Mathematics",
+    "topics": [
+      "A. Pure and Applied Mathematics : Analysis, Algebra, Number Theory, Geometry, Topology, Partial Differential Equations, Dynamical Systems, Control Theory, and related areas.",
+      "B. Computational and Interdisciplinary Mathematics : Probability, Statistics, Optimization, Numerical Analysis, Scientific Computing, and related computational and interdisciplinary areas."
+    ],
+    "order": 8
+  },
+  {
+    "title": "Remote Sensing and Digital Image Processing",
+    "shortTitle": "Remote Sensing & DIP",
+    "topics": [
+      "Multispectral, hyperspectral, thermal, LiDAR, and SAR-based applications",
+      "Image classification, segmentation, and enhancement techniques",
+      "Big data remote sensing and automated pipelines",
+      "Change detection algorithms and spatio-temporal dynamics",
+      "Planetary remote sensing from lunar and Mars missions"
+    ],
+    "order": 9
+  },
+  {
+    "title": "Machine Learning, Deep Learning & GeoAI",
+    "shortTitle": "ML, DL & GeoAI",
+    "topics": [
+      "Convolutional neural networks (CNNs) and transformers for geospatial data",
+      "Spatio-temporal modeling using RNNs, LSTMs, and hybrid architectures",
+      "ML for hazard prediction (floods, landslides, earthquakes, dust storms)",
+      "AI-enabled environmental monitoring and climate projections",
+      "Bias, ethics, and interpretability in geospatial AI"
+    ],
+    "order": 10
   }
 ]
