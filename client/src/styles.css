@@ -4361,7 +4361,8 @@ a.ct-info-card:hover .ct-ico {
 }
 
 .reg-fee-table thead th.fee-amount-th {
-  text-align: right;
+  text-align: center;
+  width: 150px;
   white-space: nowrap;
 }
 
@@ -4405,7 +4406,8 @@ a.ct-info-card:hover .ct-ico {
 }
 
 .fee-cell {
-  text-align: right;
+  text-align: center;
+  width: 150px;
 }
 
 .fee-badge {

@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Test User",
+    "email": "test@example.com",
+    "subject": "General enquiry",
+    "message": "Hello this is a test message with > 10 chars.",
+    "createdAt": "2026-11-02T04:54:14.354Z"
+  }
+]

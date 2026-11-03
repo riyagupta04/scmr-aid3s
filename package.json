@@ -1,0 +1,16 @@
+{
+  "name": "scmr-aid3s",
+  "version": "1.0.0",
+  "description": "International Conference on Artificial Intelligence in Design, Diagnostics and Decision Systems (AID3S 2027)",
+  "private": true,
+  "scripts": {
+    "build": "cd client && npm install && npm run build && cd ../server && npm install",
+    "start": "node server/server.js",
+    "dev": "npm run dev --prefix client",
+    "seed": "npm run seed --prefix server"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+

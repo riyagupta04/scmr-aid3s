@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: scmr-aid3s
+    env: node
+    plan: free
+    region: singapore
+    buildCommand: "cd client && npm install && npm run build && cd ../server && npm install"
+    startCommand: "node server/server.js"
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: MONGODB_URI
+        value: mongodb+srv://riyag4032_db_user:3iKvwPG0rC2kA97g@cluster0.3enfjgh.mongodb.net/conference?retryWrites=true&w=majority
+      - key: JWT_SECRET
+        value: 80dcc0483268231f64772203021fe2bed4d3eeb68fab000892acaa8398438f7a
+      - key: ADMIN_EMAIL
+        value: riyag4032@gmail.com
+      - key: ADMIN_PASSWORD
+        value: admin@123
+

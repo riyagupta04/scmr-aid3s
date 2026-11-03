@@ -232,7 +232,7 @@ export default function Submit() {
               </div>
               <h3>Paper Template &amp; Instructions</h3>
               <p>
-                Follow the official conference paper template and submission instructions.
+                Follow the official conference paper template and submission instructions. The maximum paper length is 6 pages.
               </p>
             </article>
           </div>
@@ -355,13 +355,6 @@ export default function Submit() {
               </p>
             </div>
           </div>
-
-          <div className="submission-process-note">
-            <span className="submission-process-note-icon">i</span>
-            <p>
-              <strong>Please Note:</strong> The official submission portal, paper format, page limits and important dates will be announced through the conference website.
-            </p>
-          </div>
         </div>
       </section>
 
@@ -373,7 +366,7 @@ export default function Submit() {
             <h2>Registration Fee Structure</h2>
             <div className="reg-fee-bar" aria-hidden="true" />
             <p>
-              Please review the registration fees for in-person and online presentations. Fees apply to authors from institutions outside India.
+              Please review the registration fees for in-person and online presentations.
             </p>
           </div>
 
@@ -399,7 +392,7 @@ export default function Submit() {
                   <thead>
                     <tr>
                       <th>Author Category</th>
-                      <th className="fee-amount-th">Authors from Institution Outside India (USD)</th>
+                      <th className="fee-amount-th">Fee</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -464,7 +457,7 @@ export default function Submit() {
                   <thead>
                     <tr>
                       <th>Author Category</th>
-                      <th className="fee-amount-th">Authors from Institution Outside India (USD)</th>
+                      <th className="fee-amount-th">Fee</th>
                     </tr>
                   </thead>
                   <tbody>
