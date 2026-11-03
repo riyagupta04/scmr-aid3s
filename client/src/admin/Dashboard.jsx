@@ -15,11 +15,12 @@ const content = [
     endpoint: '/dates',
     fields: [
       { name: 'label', label: 'Event', required: true },
-      { name: 'date', label: 'Date (leave empty to show "To be announced")', type: 'date' },
+      { name: 'date', label: 'Date (Start Date)', type: 'date' },
+      { name: 'endDate', label: 'End Date (Optional, sirf Conference Date ke liye)', type: 'date' },
       { name: 'note', label: 'Note' },
       { name: 'order', label: 'Order', type: 'number' },
     ],
-    columns: ['label', 'date', 'order'],
+    columns: ['label', 'date', 'endDate', 'order'],
   },
   {
     id: 'tracks',

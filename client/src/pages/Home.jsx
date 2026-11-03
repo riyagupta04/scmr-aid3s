@@ -17,6 +17,20 @@ const highlightTopics = [
   { label: 'Deep Learning', color: 'blue' },
 ];
 
+function fmtEventDate(d) {
+  if (d.endDate) {
+    const s = new Date(d.date);
+    const e = new Date(d.endDate);
+    if (!isNaN(s.getTime()) && !isNaN(e.getTime())) {
+      const pad = (n) => String(n).padStart(2, '0');
+      const sStr = `${pad(s.getUTCDate())}-${pad(s.getUTCMonth() + 1)}-${s.getUTCFullYear()}`;
+      const eStr = `${pad(e.getUTCDate())}-${pad(e.getUTCMonth() + 1)}-${e.getUTCFullYear()}`;
+      return `${sStr} to ${eStr}`;
+    }
+  }
+  return d.date ? fmtDate(d.date) : 'To be announced';
+}
+
 export default function Home() {
   const site = useSite();
   const tracks = useApi('/tracks');
@@ -247,7 +261,7 @@ export default function Home() {
                     <li key={d._id}>
                       <div className="tl-row">
                         <span className="tl-label">{d.label}</span>
-                        <span className="tl-badge">{d.date ? fmtDate(d.date) : 'To be announced'}</span>
+                        <span className="tl-badge">{fmtEventDate(d)}</span>
                       </div>
                     </li>
                   ))}

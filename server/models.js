@@ -33,6 +33,7 @@ const ImportantDate = model(
     {
       label: { type: String, required: true, trim: true },
       date: { type: Date },
+      endDate: { type: Date },
       note: String,
       order,
     },
