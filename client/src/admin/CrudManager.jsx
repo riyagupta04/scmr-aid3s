@@ -4,6 +4,7 @@ import { api } from '../api.js';
 const toInput = (f, v) => {
   if (f.type === 'date') return v ? String(v).slice(0, 10) : '';
   if (f.type === 'tags') return Array.isArray(v) ? v.join(', ') : '';
+  if (f.type === 'lines') return Array.isArray(v) ? v.join('\n') : (v ?? '');
   if (f.type === 'checkbox') return !!v;
   if (f.type === 'select') return v || f.options[0];
   return v ?? '';
@@ -11,6 +12,7 @@ const toInput = (f, v) => {
 
 const fromInput = (f, v) => {
   if (f.type === 'tags') return String(v).split(',').map((x) => x.trim()).filter(Boolean);
+  if (f.type === 'lines') return String(v).split('\n').map((x) => x.trim()).filter(Boolean);
   if (f.type === 'number') return Number(v || 0);
   return v;
 };
@@ -77,7 +79,16 @@ export default function CrudManager({ endpoint, title, fields, columns }) {
     const v = form[f.name];
     const on = (e) =>
       setForm({ ...form, [f.name]: f.type === 'checkbox' ? e.target.checked : e.target.value });
-    if (f.type === 'textarea') return <textarea rows={4} value={v} onChange={on} />;
+    if (f.type === 'textarea' || f.type === 'lines')
+      return (
+        <textarea
+          rows={6}
+          value={v}
+          onChange={on}
+          placeholder={f.placeholder || 'One item per line'}
+          style={{ whiteSpace: 'pre-wrap', lineHeight: 1.5 }}
+        />
+      );
     if (f.type === 'select')
       return (
         <select value={v} onChange={on}>
