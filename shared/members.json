@@ -1,746 +1,953 @@
 [
   {
-    "name": "Prof. Jose Cris Sotto",
-    "affiliation": "Centro Escolar University, Manila, Philippines",
+    "_id": "loc_1793601749842_1hjz",
+    "name": "Dr. N.V. Ramana Rao",
+    "role": "",
+    "affiliation": "Director, National Institute of Technology Raipur",
     "group": "General Chairs",
+    "order": 1,
+    "createdAt": "2026-11-02T06:42:29.842Z",
+    "updatedAt": "2026-11-02T06:42:29.842Z"
+  },
+  {
+    "_id": "m_16",
+    "name": "Dr. Clara Evi Citraningtyas",
+    "affiliation": "University of Pembangunan Jaya, Indonesia",
+    "group": "General Co-Chairs",
     "order": 1
   },
   {
+    "_id": "m_18",
+    "name": "Dr. Rupesh Kumar Dewang",
+    "affiliation": "NIT Raipur",
+    "group": "Organizing Secretaries",
+    "order": 1,
+    "email": "rkdewang.it@nitrr.ac.in"
+  },
+  {
+    "_id": "m_1",
+    "name": "Prof. Jose Cris Sotto",
+    "affiliation": "Centro Escolar University, Manila, Philippines",
+    "group": "General Chairs",
+    "order": 2
+  },
+  {
+    "_id": "m_17",
+    "name": "Dr. Rupesh Kumar Dewang",
+    "affiliation": "NIT Raipur",
+    "group": "General Co-Chairs",
+    "order": 2,
+    "role": "",
+    "updatedAt": "2026-11-02T06:43:48.335Z"
+  },
+  {
+    "_id": "m_19",
+    "name": "Dr. Deepika Agrawal",
+    "affiliation": "NIT Raipur",
+    "group": "Organizing Secretaries",
+    "order": 2,
+    "email": "dagrawal.it@nitrr.ac.in"
+  },
+  {
+    "_id": "m_2",
     "name": "Prof. Vipin Kumar Tripathi",
     "affiliation": "NITTTR, Bhopal, India",
     "group": "General Chairs",
-    "order": 2,
-    "email": "vktripathi@nitttrbpl.ac.in"
+    "order": 3
   },
   {
+    "_id": "m_3",
     "name": "Prof. Rajkumar Buyya",
     "affiliation": "University of Melbourne",
     "group": "Honorary Chairs",
     "order": 3
   },
   {
+    "_id": "m_20",
+    "name": "Dr. Anshul Verma",
+    "affiliation": "BHU Varanasi",
+    "group": "Organizing Secretaries",
+    "order": 3,
+    "email": "anshul.verma@bhu.ac.in"
+  },
+  {
+    "_id": "m_4",
     "name": "Prof. Rajeev Tripathi",
     "affiliation": "MNNIT Prayagraj",
     "group": "Honorary Chairs",
     "order": 4
   },
   {
+    "_id": "m_21",
+    "name": "Dr. Pavan Kumar Mishra",
+    "affiliation": "NIT Raipur",
+    "group": "Organizing Secretaries",
+    "order": 4,
+    "email": "pavanmishra.it@nitrr.ac.in"
+  },
+  {
+    "_id": "loc_1793601481637_5fhe",
+    "name": "Dr. Himashu Govil",
+    "role": "",
+    "affiliation": "Department of applied Geology",
+    "email": "hgovil.geo@nitrr.ac.in",
+    "group": "Organizing Secretaries",
+    "order": 5,
+    "createdAt": "2026-11-02T06:38:01.637Z",
+    "updatedAt": "2026-11-02T06:41:18.718Z"
+  },
+  {
+    "_id": "m_5",
     "name": "Prof. Siba K Udgata",
     "affiliation": "Hyderabad University",
     "group": "Honorary Chairs",
     "order": 5
   },
   {
+    "_id": "m_6",
     "name": "Prof. Chiranjeev Kumar",
     "affiliation": "IIT (ISM) Dhanbad",
     "group": "Honorary Chairs",
     "order": 6
   },
   {
+    "_id": "m_7",
     "name": "Prof. R. K. Baghel",
     "affiliation": "MANIT Bhopal",
     "group": "Honorary Chairs",
     "order": 7
   },
   {
+    "_id": "m_8",
     "name": "Prof. Ravi Shankar Singh",
     "affiliation": "IIT BHU",
     "group": "Honorary Chairs",
     "order": 8
   },
   {
+    "_id": "m_9",
     "name": "Prof. Nikos Hatziargyriou",
     "affiliation": "NTUA, Greece",
     "group": "Honorary Chairs",
     "order": 9
   },
   {
+    "_id": "m_10",
     "name": "Prof. N. P. Padhy",
     "affiliation": "MNIT Jaipur",
     "group": "Honorary Chairs",
     "order": 10
   },
   {
+    "_id": "m_11",
     "name": "Prof. Ashok Kumar Pradhan",
     "affiliation": "IIT Kharagpur",
     "group": "Honorary Chairs",
     "order": 11
   },
   {
+    "_id": "m_12",
     "name": "Prof. Ram Bilas Pachori",
     "affiliation": "IIT Indore",
     "group": "Honorary Chairs",
     "order": 12
   },
   {
-    "name": "Dr. Sudhakar Pandey",
-    "affiliation": "Professor, Department of Information Technology, NIT Raipur",
-    "group": "Program Chairs",
-    "order": 1
-  },
-  {
-    "name": "Dr. Amit Raj Singh",
-    "affiliation": "Professor, Department of Mechanical Engineering, NIT Raipur",
-    "group": "Program Chairs",
-    "order": 2
-  },
-  {
-    "name": "Dr. Suvendu Rup",
-    "affiliation": "Professor, Department of Information Technology, NIT Raipur",
-    "group": "Program Chairs",
-    "order": 3
-  },
-  {
+    "_id": "m_13",
     "name": "Er. Hemant Verma",
     "affiliation": "Tripura Electricity Regulatory Commission",
     "group": "Industrial Chairs",
     "order": 13
   },
   {
+    "_id": "m_14",
     "name": "Er. Sudeep Sahu",
     "affiliation": "Assistant Director, EY Business Consulting, Gurgaon",
     "group": "Industrial Chairs",
     "order": 14
   },
   {
+    "_id": "m_15",
     "name": "Er. Saurabh Jain",
     "affiliation": "Rockwell Automation",
     "group": "Industrial Chairs",
     "order": 15
   },
   {
-    "name": "Dr. Clara Evi Citraningtyas",
-    "affiliation": "University of Pembangunan Jaya, Indonesia",
-    "group": "General Co-Chairs",
-    "order": 16
-  },
-  {
-    "name": "Dr. Rupesh Kumar Dewang",
-    "affiliation": "NIT Raipur",
-    "group": "General Co-Chairs",
-    "order": 17,
-    "email": "rkdewang.it@nitrr.ac.in"
-  },
-  {
-    "name": "Dr. Rupesh Kumar Dewang",
-    "affiliation": "NIT Raipur",
-    "group": "Organizing Secretaries",
-    "order": 18,
-    "email": "rkdewang.it@nitrr.ac.in"
-  },
-  {
-    "name": "Dr. Deepika Agrawal",
-    "affiliation": "NIT Raipur",
-    "group": "Organizing Secretaries",
-    "order": 19,
-    "email": "dagrawal.it@nitrr.ac.in"
-  },
-  {
-    "name": "Dr. Anshul Verma",
-    "affiliation": "BHU Varanasi",
-    "group": "Organizing Secretaries",
-    "order": 20,
-    "email": "anshul.verma@bhu.ac.in"
-  },
-  {
-    "name": "Dr. Pavan Kumar Mishra",
-    "affiliation": "NIT Raipur",
-    "group": "Organizing Secretaries",
-    "order": 21,
-    "email": "pavanmishra.it@nitrr.ac.in"
-  },
-  {
+    "_id": "m_22",
     "name": "Prof. Anil Kumar Singh",
     "affiliation": "MNNIT Prayagraj",
     "group": "Publication Chairs",
     "order": 22
   },
   {
+    "_id": "m_23",
     "name": "Prof. Rakesh Tripathi",
     "affiliation": "NIT Raipur",
     "group": "Publication Chairs",
     "order": 23
   },
   {
+    "_id": "m_24",
     "name": "Prof. Suvendu Rup",
     "affiliation": "NIT Raipur",
     "group": "Publication Chairs",
     "order": 24
   },
   {
+    "_id": "m_25",
     "name": "Dr. Govind Prasad Gupta",
     "affiliation": "NIT Raipur",
     "group": "Publication Chairs",
     "order": 25
   },
   {
+    "_id": "m_26",
     "name": "Dr. Tirath Prasad Sahu",
     "affiliation": "NIT Raipur",
     "group": "Publication Chairs",
     "order": 26
   },
   {
+    "_id": "m_27",
     "name": "Dr. Veena Anand",
     "affiliation": "IIIT Gwalior",
     "group": "Publication Chairs",
     "order": 27
   },
   {
+    "_id": "m_28",
     "name": "Dr. Deepak Singh",
     "affiliation": "NIT Raipur",
     "group": "Publication Chairs",
     "order": 28
   },
   {
+    "_id": "m_29",
     "name": "Dr. Arvind Mewada",
     "affiliation": "NIT Calicut",
     "group": "Publication Chairs",
     "order": 29
   },
   {
+    "_id": "m_30",
     "name": "Dr. Kapil Kumar Soni",
     "affiliation": "NIT Raipur",
     "group": "Publication Chairs",
     "order": 30
   },
   {
+    "_id": "m_31",
     "name": "Dr. Kaushlendra Sharma",
     "affiliation": "IIIT Nagpur",
     "group": "Publication Chairs",
     "order": 31
   },
   {
+    "_id": "m_32",
     "name": "Dr. Rayanoothala Praneetha Sree",
     "affiliation": "NIT Raipur",
     "group": "Publication Chairs",
     "order": 32
   },
   {
+    "_id": "m_33",
     "name": "Prof. N. K. Rawal",
     "affiliation": "MNNIT Allahabad",
     "group": "Publication Chairs",
     "order": 33
   },
   {
+    "_id": "m_34",
     "name": "Prof. Sudhakar Pandey",
     "affiliation": "NIT Raipur",
     "group": "Publicity Chairs",
     "order": 34
   },
   {
+    "_id": "m_35",
     "name": "Prof. Rakesh Tripathi",
     "affiliation": "NIT Raipur",
     "group": "Publicity Chairs",
     "order": 35
   },
   {
+    "_id": "m_36",
     "name": "Dr. Suvendu Rup",
     "affiliation": "NIT Raipur",
     "group": "Publicity Chairs",
     "order": 36
   },
   {
+    "_id": "m_37",
     "name": "Dr. Ajay Singh",
     "affiliation": "IIT Jammu",
     "group": "Publicity Chairs",
     "order": 37
   },
   {
+    "_id": "m_38",
     "name": "Dr. Rahul Chaurasiya",
     "affiliation": "MANIT Bhopal",
     "group": "Publicity Chairs",
     "order": 38
   },
   {
+    "_id": "m_39",
     "name": "Dr. Sarsij Tripathi",
     "affiliation": "MNNIT Prayagraj",
     "group": "Publicity Chairs",
     "order": 39
   },
   {
+    "_id": "m_40",
     "name": "Dr. B. R. Reddi",
     "affiliation": "NIT Jamshedpur",
     "group": "Publicity Chairs",
     "order": 40
   },
   {
+    "_id": "m_41",
     "name": "Dr. Vishakha Chaurasiya",
     "affiliation": "IIIT Bhopal",
     "group": "Publicity Chairs",
     "order": 41
   },
   {
+    "_id": "m_42",
     "name": "Dr. Sangram Ray",
     "affiliation": "NIT Sikkim",
     "group": "Publicity Chairs",
     "order": 42
   },
   {
+    "_id": "m_43",
     "name": "Prof. Chandra Shekhar Jatoth",
     "affiliation": "NIT Raipur",
     "group": "Publicity Chairs",
     "order": 43
   },
   {
+    "_id": "m_44",
     "name": "Dr. Kamalakant Bawankule",
     "affiliation": "Govt. of Maharashtra",
     "group": "Publicity Chairs",
     "order": 44
   },
   {
+    "_id": "m_45",
     "name": "Dr. Ranjeet Singh",
     "affiliation": "NITTTR Bhopal",
     "group": "Publicity Chairs",
     "order": 45
   },
   {
+    "_id": "m_46",
     "name": "Dr. Manoj Wariya",
     "affiliation": "MNNIT Allahabad",
     "group": "Publicity Chairs",
     "order": 46
   },
   {
+    "_id": "m_47",
     "name": "Dr. Vibhav Prakash Singh",
     "affiliation": "MNNIT Allahabad",
     "group": "Publicity Chairs",
     "order": 47
   },
   {
+    "_id": "m_48",
     "name": "Dr. Manoj Gupta",
     "affiliation": "MMTU Gorakhpur",
     "group": "Publicity Chairs",
     "order": 48
   },
   {
+    "_id": "m_49",
     "name": "Dr. Ashutosh Mani",
     "affiliation": "MNNIT Allahabad",
     "group": "Publicity Chairs",
     "order": 49
   },
   {
+    "_id": "tc_1",
     "name": "Prof. Rakesh Tripathi",
     "affiliation": "NIT Raipur",
     "group": "Track Chairs",
-    "order": 50
+    "order": 1
   },
   {
+    "_id": "tc_2",
     "name": "Prof. Suvendu Rup",
     "affiliation": "NIT Raipur",
     "group": "Track Chairs",
-    "order": 51
+    "order": 2
   },
   {
+    "_id": "tc_3",
     "name": "Prof. Pradeep Singh",
     "affiliation": "NIT Raipur",
     "group": "Track Chairs",
-    "order": 52
+    "order": 3
   },
   {
-    "name": "Dr. Chandra Shekhar Jatoth",
-    "affiliation": "NIT Raipur",
-    "group": "Track Chairs",
-    "order": 53
-  },
-  {
-    "name": "Dr. K. Sowjanya",
-    "affiliation": "MNNIT Prayagraj",
-    "group": "Track Chairs",
-    "order": 54
-  },
-  {
-    "name": "Dr. Mitul Kumar Ahirwal",
-    "affiliation": "MANIT Bhopal",
-    "group": "Track Chairs",
-    "order": 55
-  },
-  {
-    "name": "Dr. Shailendra Tripathi",
-    "affiliation": "NIT Raipur",
-    "group": "Track Chairs",
-    "order": 56
-  },
-  {
-    "name": "Dr. Rahul Chaurasiya",
-    "affiliation": "MANIT Bhopal",
-    "group": "Track Chairs",
-    "order": 57
-  },
-  {
-    "name": "Dr. Sangram Ray",
-    "affiliation": "NIT Sikkim",
-    "group": "Track Chairs",
-    "order": 58
-  },
-  {
-    "name": "Dr. Ajay Singh",
-    "affiliation": "IIT Jammu",
-    "group": "Track Chairs",
-    "order": 59
-  },
-  {
-    "name": "Dr. B. R. Reddi",
-    "affiliation": "NIT Jamshedpur",
-    "group": "Track Chairs",
-    "order": 60
-  },
-  {
-    "name": "Dr. Manu Vardhan",
-    "affiliation": "Delhi University",
-    "group": "Track Chairs",
-    "order": 61
-  },
-  {
-    "name": "Dr. Sarsij Tripathi",
-    "affiliation": "MNNIT Prayagraj",
-    "group": "Track Chairs",
-    "order": 62
-  },
-  {
-    "name": "Dr. Vijay Semwal",
-    "affiliation": "MANIT Bhopal",
-    "group": "Track Chairs",
-    "order": 63
-  },
-  {
-    "name": "Dr. Mahendra Pratap Singh",
-    "affiliation": "IIIT Pune",
-    "group": "Track Chairs",
-    "order": 64
-  },
-  {
-    "name": "Dr. Rohit Gupta",
-    "affiliation": "",
-    "group": "Track Chairs",
-    "order": 65
-  },
-  {
-    "name": "Prof. R. S. Yadav",
-    "affiliation": "MNNIT Allahabad",
-    "group": "Track Chairs",
-    "order": 66
-  },
-  {
-    "name": "Dr. Kaushlendra Sharma",
-    "affiliation": "IIIT Nagpur",
-    "group": "Track Chairs",
-    "order": 67
-  },
-  {
-    "name": "Dr. Nidhi Sonkar",
-    "affiliation": "NIT Warangal",
-    "group": "Track Chairs",
-    "order": 68
-  },
-  {
-    "name": "Dr. Prashant Shukla",
-    "affiliation": "NIT Jalandhar",
-    "group": "Track Chairs",
-    "order": 69
-  },
-  {
-    "name": "Dr. Abhilasha Chaudhary",
-    "affiliation": "SVNIT Surat",
-    "group": "Track Chairs",
-    "order": 70
-  },
-  {
-    "name": "Dr. Deepak Dewangan",
-    "affiliation": "IIIT Gwalior",
-    "group": "Track Chairs",
-    "order": 71
-  },
-  {
-    "name": "Dr. Sourabh Jain",
-    "affiliation": "IIIT Bhopal",
-    "group": "Track Chairs",
-    "order": 72
-  },
-  {
+    "_id": "tc_4",
     "name": "Prof. Seema Verma",
     "affiliation": "NITTTR Bhopal",
     "group": "Track Chairs",
-    "order": 73
+    "order": 4
   },
   {
-    "name": "Dr. Dinesh Singh",
+    "_id": "tc_5",
+    "name": "Prof. R. S. Yadav",
     "affiliation": "MNNIT Allahabad",
     "group": "Track Chairs",
-    "order": 74
+    "order": 5
   },
   {
+    "_id": "tc_6",
+    "name": "Dr. Mitul Kumar Ahirwal",
+    "affiliation": "MANIT Bhopal",
+    "group": "Track Chairs",
+    "order": 6
+  },
+  {
+    "_id": "tc_7",
+    "name": "Dr. Himanshu Govil",
+    "affiliation": "NIT Raipur",
+    "group": "Track Chairs",
+    "order": 7
+  },
+  {
+    "_id": "tc_8",
+    "name": "Dr. Debasisha Mishra",
+    "affiliation": "NIT Raipur",
+    "group": "Track Chairs",
+    "order": 8
+  },
+  {
+    "_id": "tc_9",
+    "name": "Dr. Rahul Chaurasiya",
+    "affiliation": "MANIT Bhopal",
+    "group": "Track Chairs",
+    "order": 9
+  },
+  {
+    "_id": "tc_10",
+    "name": "Dr. Sangram Ray",
+    "affiliation": "NIT Sikkim",
+    "group": "Track Chairs",
+    "order": 10
+  },
+  {
+    "_id": "tc_11",
+    "name": "Dr. Ajay Singh",
+    "affiliation": "IIT Jammu",
+    "group": "Track Chairs",
+    "order": 11
+  },
+  {
+    "_id": "tc_12",
+    "name": "Dr. Manu Vardhan",
+    "affiliation": "Delhi University",
+    "group": "Track Chairs",
+    "order": 12
+  },
+  {
+    "_id": "tc_13",
+    "name": "Dr. Sarsij Tripathi",
+    "affiliation": "MNNIT Prayagraj",
+    "group": "Track Chairs",
+    "order": 13
+  },
+  {
+    "_id": "tc_14",
+    "name": "Dr. Rohit Gupta",
+    "affiliation": "",
+    "group": "Track Chairs",
+    "order": 14
+  },
+  {
+    "_id": "tc_15",
+    "name": "Dr. Kaushlendra Sharma",
+    "affiliation": "IIIT Nagpur",
+    "group": "Track Chairs",
+    "order": 15
+  },
+  {
+    "_id": "tc_16",
+    "name": "Dr. Nidhi Sonkar",
+    "affiliation": "NIT Warangal",
+    "group": "Track Chairs",
+    "order": 16
+  },
+  {
+    "_id": "tc_17",
+    "name": "Dr. Prashant Shukla",
+    "affiliation": "NIT Jalandhar",
+    "group": "Track Chairs",
+    "order": 17
+  },
+  {
+    "_id": "tc_18",
+    "name": "Dr. Abhilasha Chaudhary",
+    "affiliation": "SVNIT Surat",
+    "group": "Track Chairs",
+    "order": 18
+  },
+  {
+    "_id": "tc_19",
+    "name": "Dr. Deepak Dewangan",
+    "affiliation": "IIIT Gwalior",
+    "group": "Track Chairs",
+    "order": 19
+  },
+  {
+    "_id": "tc_20",
+    "name": "Dr. Sourabh Jain",
+    "affiliation": "IIIT Bhopal",
+    "group": "Track Chairs",
+    "order": 20
+  },
+  {
+    "_id": "iab_1",
     "name": "Prof. Bikash Pal",
     "affiliation": "Imperial College London",
     "group": "International Advisory Board",
-    "order": 75
+    "order": 1
   },
   {
+    "_id": "iab_2",
     "name": "Prof. Ayman El-Refaie",
     "affiliation": "Marquette University, USA",
     "group": "International Advisory Board",
-    "order": 76
+    "order": 2
   },
   {
+    "_id": "iab_3",
     "name": "Prof. Sanjay Misra",
     "affiliation": "Halden, Norway",
     "group": "International Advisory Board",
-    "order": 77
+    "order": 3
   },
   {
+    "_id": "iab_4",
     "name": "Prof. Frede Blaabjerg",
     "affiliation": "Aalborg University, Denmark",
     "group": "International Advisory Board",
-    "order": 78
+    "order": 4
   },
   {
+    "_id": "iab_5",
     "name": "Prof. Jih-Sheng (Jason) Lai",
     "affiliation": "Virginia Tech, USA",
     "group": "International Advisory Board",
-    "order": 79
+    "order": 5
   },
   {
+    "_id": "iab_6",
     "name": "Prof. Akshay Rathore",
     "affiliation": "National University of Singapore",
     "group": "International Advisory Board",
-    "order": 80
+    "order": 6
   },
   {
+    "_id": "iab_7",
     "name": "Prof. Ramesh Bansal",
     "affiliation": "University of Pretoria, South Africa",
     "group": "International Advisory Board",
-    "order": 81
+    "order": 7
   },
   {
+    "_id": "iab_8",
     "name": "Prof. Vinod Khadkikar",
     "affiliation": "Khalifa University of Science & Technology, UAE",
     "group": "International Advisory Board",
-    "order": 82
+    "order": 8
   },
   {
+    "_id": "iab_9",
     "name": "Prof. Kashem Muttaqi",
     "affiliation": "University of Wollongong, Australia",
     "group": "International Advisory Board",
-    "order": 83
+    "order": 9
   },
   {
+    "_id": "iab_10",
     "name": "Prof. Biplab Sikdar",
     "affiliation": "National University of Singapore",
     "group": "International Advisory Board",
-    "order": 84
+    "order": 10
   },
   {
+    "_id": "iab_11",
     "name": "Dr. Brij N. Singh",
     "affiliation": "John Deere Inc., USA",
     "group": "International Advisory Board",
-    "order": 85
+    "order": 11
   },
   {
+    "_id": "iab_12",
     "name": "Prof. Koichi Takaki",
     "affiliation": "Iwate University, Japan",
     "group": "International Advisory Board",
-    "order": 86
+    "order": 12
   },
   {
+    "_id": "iab_13",
     "name": "Prof. Tadashi Suetsugu",
     "affiliation": "Fukuoka University, Japan",
     "group": "International Advisory Board",
-    "order": 87
+    "order": 13
   },
   {
+    "_id": "iab_14",
     "name": "Prof. Nand Kishor",
     "affiliation": "Ostfold University, Norway",
     "group": "International Advisory Board",
-    "order": 88
+    "order": 14
   },
   {
+    "_id": "iab_15",
+    "name": "Dr. mukesh Tiwari",
+    "affiliation": "university of BRISTOL united kingdom",
+    "group": "International Advisory Board",
+    "order": 15
+  },
+  {
+    "_id": "iab_16",
+    "name": "Dr. Rajkumar Buyya",
+    "affiliation": "University of Melbourne",
+    "group": "International Advisory Board",
+    "order": 16
+  },
+  {
+    "_id": "nab_1",
     "name": "Prof. Rajeev Tripathi",
     "affiliation": "MNNIT Prayagraj",
     "group": "National Advisory Board",
-    "order": 89
+    "order": 1
   },
   {
+    "_id": "nab_2",
     "name": "Prof. Siba K Udgata",
     "affiliation": "University of Hyderabad",
     "group": "National Advisory Board",
-    "order": 90
+    "order": 2
   },
   {
+    "_id": "nab_3",
     "name": "Prof. Chiranjeev Kumar",
     "affiliation": "IIT (ISM) Dhanbad",
     "group": "National Advisory Board",
-    "order": 91
+    "order": 3
   },
   {
+    "_id": "nab_4",
     "name": "Prof. R. K. Baghel",
     "affiliation": "MANIT Bhopal",
     "group": "National Advisory Board",
-    "order": 92
+    "order": 4
   },
   {
+    "_id": "nab_5",
     "name": "Prof. Ram Bilas Pachori",
     "affiliation": "IIT Indore",
     "group": "National Advisory Board",
-    "order": 93
+    "order": 5
   },
   {
-    "name": "Prof. Parimal Acharjee",
-    "affiliation": "NIT Durgapur",
-    "group": "Technical Program Committee",
-    "order": 94
+    "_id": "nab_6",
+    "name": "Prof. Om Prakash Vyas",
+    "affiliation": "IIIT Naya Raipur",
+    "group": "National Advisory Board",
+    "order": 6
   },
   {
+    "_id": "nab_7",
+    "name": "Prof. Anupam Shukla",
+    "affiliation": "SVNIT Surat",
+    "group": "National Advisory Board",
+    "order": 7
+  },
+  {
+    "_id": "nab_8",
+    "name": "Prof. Maheshwari Prasad Singh",
+    "affiliation": "NIT Patna",
+    "group": "National Advisory Board",
+    "order": 8
+  },
+  {
+    "_id": "tpc_1",
     "name": "Prof. P. K. Sadhu",
     "affiliation": "IIT (ISM) Dhanbad",
     "group": "Technical Program Committee",
-    "order": 95
+    "order": 1
   },
   {
+    "_id": "tpc_2",
+    "name": "Prof. Parimal Acharjee",
+    "affiliation": "NIT Durgapur",
+    "group": "Technical Program Committee",
+    "order": 2
+  },
+  {
+    "_id": "tpc_3",
     "name": "Dr. Ajay Singh",
     "affiliation": "IIT Jammu",
     "group": "Technical Program Committee",
-    "order": 96
+    "order": 3
   },
   {
+    "_id": "tpc_4",
+    "name": "Dr. Debasisha Mishra",
+    "affiliation": "NIT Raipur",
+    "group": "Technical Program Committee",
+    "order": 4
+  },
+  {
+    "_id": "tpc_5",
     "name": "Dr. B. R. Reddi",
     "affiliation": "NIT Jamshedpur",
     "group": "Technical Program Committee",
-    "order": 97
+    "order": 5
   },
   {
+    "_id": "tpc_6",
     "name": "Dr. Manu Vardhan",
     "affiliation": "Delhi University",
     "group": "Technical Program Committee",
-    "order": 98
+    "order": 6
   },
   {
+    "_id": "tpc_7",
+    "name": "Dr. Himanshu Govil",
+    "affiliation": "NIT raipur",
+    "group": "Technical Program Committee",
+    "order": 7
+  },
+  {
+    "_id": "tpc_8",
+    "name": "Dr. Niraj Kumar Choudhary",
+    "affiliation": "MNIT Allahabad",
+    "group": "Technical Program Committee",
+    "order": 8
+  },
+  {
+    "_id": "tpc_9",
     "name": "Dr. Sarsij Tripathi",
     "affiliation": "MNNIT Prayagraj",
     "group": "Technical Program Committee",
-    "order": 99
+    "order": 9
   },
   {
+    "_id": "tpc_10",
     "name": "Dr. Jasraj Meena",
     "affiliation": "JNU New Delhi",
     "group": "Technical Program Committee",
-    "order": 100
+    "order": 10
   },
   {
+    "_id": "tpc_11",
     "name": "Dr. Mitul Kumar Ahirwal",
     "affiliation": "MANIT Bhopal",
     "group": "Technical Program Committee",
-    "order": 101
+    "order": 11
   },
   {
+    "_id": "tpc_12",
     "name": "Dr. Shashank Srivastava",
     "affiliation": "MNNIT Prayagraj",
     "group": "Technical Program Committee",
-    "order": 102
+    "order": 12
   },
   {
+    "_id": "tpc_13",
     "name": "Dr. Nitika Vats Doohan",
     "affiliation": "SAGE University, Indore",
     "group": "Technical Program Committee",
-    "order": 103
+    "order": 13
   },
   {
+    "_id": "tpc_14",
     "name": "Dr. Shailendra Kumar Sharma",
     "affiliation": "SGSITS, Indore",
     "group": "Technical Program Committee",
-    "order": 104
+    "order": 14
   },
   {
+    "_id": "tpc_15",
     "name": "Dr. Rohit Bhakar",
     "affiliation": "MNIT Jaipur",
     "group": "Technical Program Committee",
-    "order": 105
+    "order": 15
   },
   {
+    "_id": "tpc_16",
     "name": "Dr. Srinivas Bhaskar Karanki",
     "affiliation": "IIT Bhubaneswar",
     "group": "Technical Program Committee",
-    "order": 106
+    "order": 16
   },
   {
+    "_id": "tpc_17",
     "name": "Dr. O. H. Gupta",
     "affiliation": "NIT Jamshedpur",
     "group": "Technical Program Committee",
-    "order": 107
+    "order": 17
   },
   {
+    "_id": "tpc_18",
     "name": "Dr. Papia Ray",
     "affiliation": "NITTTR, Kolkata",
     "group": "Technical Program Committee",
-    "order": 108
+    "order": 18
   },
   {
+    "_id": "tpc_19",
     "name": "Dr. Ritesh Keshri",
     "affiliation": "VNIT Nagpur",
     "group": "Technical Program Committee",
-    "order": 109
+    "order": 19
   },
   {
+    "_id": "tpc_20",
     "name": "Dr. A. Kirubakaran",
     "affiliation": "NIT Warangal",
     "group": "Technical Program Committee",
-    "order": 110
+    "order": 20
   },
   {
+    "_id": "tpc_21",
     "name": "Dr. B. Venugopal Reddy",
     "affiliation": "NIT Warangal",
     "group": "Technical Program Committee",
-    "order": 111
+    "order": 21
   },
   {
+    "_id": "tpc_22",
     "name": "Dr. Ch. Ramulu",
     "affiliation": "NIT Warangal",
     "group": "Technical Program Committee",
-    "order": 112
+    "order": 22
   },
   {
+    "_id": "tpc_23",
     "name": "Dr. Nishant Kumar",
     "affiliation": "IIT Gandhinagar",
     "group": "Technical Program Committee",
-    "order": 113
+    "order": 23
   },
   {
+    "_id": "tpc_24",
     "name": "Dr. Arun Kumar",
     "affiliation": "NIT Rourkela",
     "group": "Technical Program Committee",
-    "order": 114
+    "order": 24
   },
   {
+    "_id": "tpc_25",
     "name": "Dr. Sachchida Nand Chaurasia",
     "affiliation": "BHU",
     "group": "Technical Program Committee",
-    "order": 115
+    "order": 25
   },
   {
+    "_id": "tpc_26",
     "name": "Dr. Mau Dasgupta",
     "affiliation": "NIT Raipur",
     "group": "Technical Program Committee",
-    "order": 116
+    "order": 26
   },
   {
+    "_id": "tpc_27",
     "name": "Dr. Sangram Ray",
     "affiliation": "NIT Sikkim",
     "group": "Technical Program Committee",
-    "order": 117
+    "order": 27
   },
   {
+    "_id": "tpc_28",
     "name": "Dr. Akhilendra Pratap Singh",
     "affiliation": "NIT Meghalaya",
     "group": "Technical Program Committee",
-    "order": 118
+    "order": 28
   },
   {
+    "_id": "tpc_29",
     "name": "Dr. Anoop Kumar Patel",
     "affiliation": "NIT Kurukshetra",
     "group": "Technical Program Committee",
-    "order": 119
+    "order": 29
   },
   {
+    "_id": "tpc_30",
     "name": "Dr. Dinesh Singh",
     "affiliation": "MNNIT Allahabad",
     "group": "Technical Program Committee",
-    "order": 120
+    "order": 30
+  },
+  {
+    "_id": "tpc_31",
+    "name": "Dr. Chandra Shekhar Jatoth",
+    "affiliation": "NIT Raipur",
+    "group": "Technical Program Committee",
+    "order": 31
+  },
+  {
+    "_id": "tpc_32",
+    "name": "Dr. B. R. Reddi",
+    "affiliation": "NIT Jamshedpur",
+    "group": "Technical Program Committee",
+    "order": 32
+  },
+  {
+    "_id": "tpc_33",
+    "name": "Dr. Shailendra Tripathi",
+    "affiliation": "NIT Raipur",
+    "group": "Technical Program Committee",
+    "order": 33
+  },
+  {
+    "_id": "tpc_34",
+    "name": "Dr. K. Sowjanya",
+    "affiliation": "MNNIT Prayagraj",
+    "group": "Technical Program Committee",
+    "order": 34
+  },
+  {
+    "_id": "tpc_35",
+    "name": "Dr. Vijay Semwal",
+    "affiliation": "MANIT Bhopal",
+    "group": "Technical Program Committee",
+    "order": 35
+  },
+  {
+    "_id": "tpc_36",
+    "name": "Dr. Mahendra Pratap Singh",
+    "affiliation": "IIIT Pune",
+    "group": "Technical Program Committee",
+    "order": 36
+  },
+  {
+    "_id": "pc_1",
+    "name": "Dr. Sudhakar Pandey",
+    "affiliation": "Professor, Department of Information Technology",
+    "group": "Program Chairs",
+    "order": 1
+  },
+  {
+    "_id": "pc_2",
+    "name": "Dr. Amit Raj Singh",
+    "affiliation": "Professor, Department of Mechanical Engineering",
+    "group": "Program Chairs",
+    "order": 2
+  },
+  {
+    "_id": "pc_3",
+    "name": "Dr. Suvendu Rup",
+    "affiliation": "Professor, Department of Information Technology",
+    "group": "Program Chairs",
+    "order": 3
   }
 ]
